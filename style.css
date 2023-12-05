@@ -133,7 +133,7 @@ body {
 @media (width <= 660px) {
 
       .first-article {  
-            margin: 7rem 7%;    
+            padding: 7rem 7%;    
             gap: 2.7rem;
       }
 
